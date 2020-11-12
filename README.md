@@ -76,7 +76,7 @@
 
 ## 使用說明
 
-請參考   [使用說明]( http://34.80.12.180/7th/mapgenerator/-/blob/feature/mapgen/Map%20Generator%20user%20menual.md )
+請參考   [使用說明]( https://github.com/KimLyu/GitHub_mapgenerator/blob/master/Map%20Generator%20user%20menual.md )
 
 ## 相關項目
 
